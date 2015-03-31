@@ -1,0 +1,11 @@
+{
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/tripsta/JSONselect-php.git"
+		}
+	],
+    "require": {
+        "tripsta/JSONselect-php": "dev-features/install-through-composer"
+    }
+}
